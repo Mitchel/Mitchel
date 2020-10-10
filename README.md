@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Mitchel Jansen. I am 23 years old.
+
+If you want to collaborate on a project, or you can contact me at [email@mitcheljansen.nl](mailto:email@mitcheljansen.nl) or via Discord: **Mitchel#1111**. Or you can visit my website [https://mitcheljansen.nl](https://mitcheljansen.nl).
+
 <!--
 **Mitchel/Mitchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
