@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Mitchel Jansen. I am 23 years old.
+My name is Mitchel Jansen, I am currently 23 years old and live in Utrecht (The Netherlands). In my spare time I am involved in Front-end development, I like to experiment with new functions related to development. I also do some craftwork in Photoshop and Illustrator.
 
-If you want to collaborate on a project, or you can contact me at [email@mitcheljansen.nl](mailto:email@mitcheljansen.nl) or via Discord: **Mitchel#1111**. Or you can visit my website [https://mitcheljansen.nl](https://mitcheljansen.nl).
+If you are interested in working together or just want to have a nice conversation, please contact me at [email@mitcheljansen.nl](mailto:email@mitcheljansen.nl), or send me a message on Discord: **Mitchel#1111**.
+
+If you want to know more about me, please check out my website: [https://mitcheljansen.nl](https://mitcheljansen.nl)
 
 <!--
 **Mitchel/Mitchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
