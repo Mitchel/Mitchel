@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Mitchel Jansen**, I am currently 23 years old and live in Utrecht (The Netherlands). In my spare time I am involved in **Front-end development**, I like to experiment with **new functions** related to development. I also do some craftwork in **Photoshop and Illustrator**. In addition, I am currently studying **Software Development** at the MBO Utrecht. Besides studying and working on my hobby I am also a **radio presenter** at a regional broadcaster in Utrecht.
+My name is Mitchel, I am currently 23 years old and live in Utrecht (The Netherlands). In my spare time I am involved in Front-end development, I like to experiment with new functions related to development. I also do some craftwork in Photoshop and Illustrator. In addition, I am currently studying Software Development at the MBO Utrecht. Besides studying and working on my hobby I am also a radio presenter at a regional broadcaster in Utrecht.
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
