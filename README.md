@@ -11,7 +11,7 @@ If you are interested in working together, want to know more about me or just wa
 
 ### Visit my website for more
 If you want to know more about me, please check out my website:
-- **[https://mitcheljansen.nl](https://mitcheljansen.nl)**
+- **[mitcheljansen.nl](https://mitcheljansen.nl)**
 
 <!--
 **Mitchel/Mitchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
