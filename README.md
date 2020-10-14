@@ -4,14 +4,13 @@ My name is **Mitchel Jansen**, I am currently 23 years old and live in Utrecht (
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
-- Email: **[email@mitcheljansen.nl](mailto:email@mitcheljansen.nl)**
-- Instagram: **[@devmitchel](https://instagram.com/devmitchel)**
-- Twitter: **[@devmitchel](https://twitter.com/devmitchel)**
 - Discord: **[Mitchel#1111](Mitchel#1111)**
+- Instagram: **[devmitchel](https://instagram.com/devmitchel)**
+- Twitter: **[devmitchel](https://twitter.com/devmitchel)**
+- E-mail: **[email@mitcheljansen.nl](mailto:email@mitcheljansen.nl)**
 
 ### Visit my website for more
 If you want to know more about me, please check out my website:
-
 - **[https://mitcheljansen.nl](https://mitcheljansen.nl)**
 
 <!--
