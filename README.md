@@ -9,6 +9,7 @@ If you are interested in working together, want to know more about me or just wa
 - Twitter: **[devmitchel](https://twitter.com/devmitchel)**
 - E-mail: **[email@mitcheljansen.nl](mailto:email@mitcheljansen.nl)**
 
-### Visit my website for more
-If you want to know more about me, please check out my website:
+### Visit my website(s) for more
+If you want to know more about me, please check out my website(s):
 - **[mitcheljansen.nl](https://mitcheljansen.nl)**
+- **[mexter.nl](https://mexter.nl)**
