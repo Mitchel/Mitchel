@@ -15,4 +15,4 @@ If you want to know more about me, please check out my website(s):
 - **[mexter.nl](https://mexter.nl)**
 
 ### Some stats from GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel&layout=compact&langs_count=10)](https://github.com/Mitchel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel&layout=compact&langs_count=10&show_icons=true)](https://github.com/Mitchel)
