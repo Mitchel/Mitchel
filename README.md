@@ -13,3 +13,5 @@ If you are interested in working together, want to know more about me or just wa
 If you want to know more about me, please check out my website(s):
 - **[mitcheljansen.nl](https://mitcheljansen.nl)**
 - **[mexter.nl](https://mexter.nl)**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitchel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
