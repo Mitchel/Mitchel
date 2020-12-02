@@ -4,7 +4,7 @@ My name is Mitchel, I am currently 23 years old and my hometown is Utrecht (The 
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
-- Discord: **[Mitchel#1111](Mitchel#1111)**
+- Discord: **[Mitchel#8894](Mitchel#8894)**
 - Instagram: **[devmitchel](https://instagram.com/devmitchel)**
 - Twitter: **[devmitchel](https://twitter.com/devmitchel)**
 - E-mail: **[email@mitcheljansen.nl](mailto:email@mitcheljansen.nl)**
