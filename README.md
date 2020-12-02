@@ -7,7 +7,7 @@ If you are interested in working together, want to know more about me or just wa
 - Discord: **[Mitchel#8894](Mitchel#8894)**
 - Instagram: **[devmitchel](https://instagram.com/devmitchel)**
 - Twitter: **[devmitchel](https://twitter.com/devmitchel)**
-- E-mail: **[email@mitcheljansen.nl](mailto:email@mitcheljansen.nl)**
+- E-mail: **[mitchel@mexter.nl](mailto:mitchel@mexter.nl)**
 
 ### Visit my website(s) for more
 If you want to know more about me, please check out my website(s):
