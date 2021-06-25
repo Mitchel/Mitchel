@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Mitchel, I am currently 24 years old and my hometown is Utrecht (The Netherlands). In my spare time I am involved in Front-end development, I like to experiment with new functions related to development. I also do some craftwork in Photoshop and Illustrator. In addition, I am currently studying Software Development at the MBO Utrecht. Besides studying I am also a radio presenter at a regional broadcaster in Utrecht.
+My name is Mitchel, I am currently 24 years old and my hometown is Utrecht (The Netherlands). In my spare time I am involved in Front-end development, I like to experiment with new functions related to development. I also do some craftwork in Photoshop and Illustrator. In addition, I am currently studying Software Development at the MBO Utrecht. Besides my studies, I am a radio presenter at a regional broadcaster in Utrecht, I work at MediaMarkt Utrecht as a service employee and I have my own company, where I mainly focus on front-end web development.
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
