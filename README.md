@@ -4,5 +4,4 @@ My name is Mitchel, I am currently 25 years old and my hometown is Utrecht (The 
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
-- Discord: **[OneM0reThing#8894](OneM0reThing#8894)**
-- E-mail: **[mitchel@mexter.nl](mailto:mitchel@mexter.nl)**
+- Discord: **[Mitchel#1337](Mitchel#1337)**
