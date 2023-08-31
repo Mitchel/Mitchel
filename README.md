@@ -4,6 +4,5 @@ Hello there! My name is Mitchel, and I am currently 26 years old, based in the p
 
 ### Get in touch
 If you are interested in working together, want to know more about me or just want to have a nice conversation, send me a message!
-- Discord: devmitchel
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/249207931478867978?hideTimestamp=true&showDisplayName=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/249207931478867978)
