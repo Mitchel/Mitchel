@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/ufCTDaz.jpg)
+
 ## Hi there! 👋
 
 Hello there! My name is Mitchel, and I am currently 26 years old, based in the picturesque city of Utrecht, Netherlands. My passion for technology has led me to the fascinating realm of full-stack development. In my free time, I eagerly dive into the world of building complete applications, where I enjoy experimenting with and integrating new and innovative features. Beyond my love for coding, I am also a creative soul who delights in spending time tinkering in Photoshop and Illustrator. I thoroughly enjoy harnessing my design skills to craft visual masterpieces.
